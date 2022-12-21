@@ -1,0 +1,20 @@
+.text-container{
+    width:245px;
+    height:245px;
+    padding-left: 36px;
+    padding-right: 36px;
+    margin-top: 33px;
+}
+.heading{
+    font-size:16px;
+    text-align: left;
+    margin:0px;
+}
+.paragraph{
+    font-size:10px;
+    text-align: left;
+    font-weight: 300;
+    margin-top: 5px;
+    margin-bottom: 27px;
+    color: #DCDCDC;
+}

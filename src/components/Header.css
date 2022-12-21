@@ -1,0 +1,19 @@
+.title{
+    font-size:25px;
+    font-weight:bold;
+    margin-bottom: 4px;
+    margin-top: 0px;
+    padding-top: 21px;
+}
+.sub-title{
+    font-size: 12px;
+    font-weight: 500;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color:#F3BF99;
+}
+.email{
+    font-size: 10px;
+    margin-bottom: 15px;
+    margin-top: 8px;
+}
