@@ -4,4 +4,6 @@
   padding: 2rem;
   text-align: center;
 }
-
+.App{
+  box-shadow: 0 10px 10px rgba(32, 32, 32, 0.14);
+}
